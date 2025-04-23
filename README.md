@@ -1,4 +1,4 @@
-# 6 Slot XBackplane
+# 6 Slot Backplane
 
 A standard Backplane for Nascom / Gemini / 80-BUS Computers
 
